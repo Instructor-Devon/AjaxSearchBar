@@ -1,0 +1,9 @@
+.username {
+    display: block;
+}
+.taken {
+    color: red;
+}
+.available {
+    color: green;
+}
